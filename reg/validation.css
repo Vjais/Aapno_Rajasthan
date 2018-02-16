@@ -1,0 +1,126 @@
+h1 {
+margin-left: 70px;
+azimuth:behind;
+}
+form li {
+list-style: none;
+margin-bottom: 5px;
+azimuth: behind;
+}
+
+form ul li label{
+float: left;
+clear: left;
+width: 100px;
+text-align: right;
+margin-right: 10px;
+font-family:Verdana, Arial, Helvetica, sans-serif;
+font-size:14px;
+}
+
+form ul li input, select, span {
+float: left;
+margin-bottom: 10px;
+}
+
+form textarea {
+float: left;
+width: 350px;
+height: 150px;
+position: static;
+}
+
+[type="submit"] {
+clear: left;
+margin: 20px 0 0 230px;
+font-size:px;
+background-color:#99FF33C;
+color:#990066;
+}
+
+p {
+margin-left: 70px;
+font-weight: bold;
+}
+#signUp {
+	background-image: url(../image/1651568.jpg);
+	background-attachment: fixed;
+	background-position: center bottom;
+	background-repeat: repeat;
+	width: 450px;
+	padding: 25px;
+	margin-top: 47px;
+	margin-right: auto;
+	margin-bottom: auto;
+	margin-left: auto;
+  
+}
+#signUp fieldset h1 {
+	font-family: Verdana, Geneva, sans-serif;
+	text-align: center;
+	font-size: 24px;
+	text-transform: uppercase;
+	margin: auto;
+}
+#signUp fieldset {
+	margin: auto;
+	text-transform: capitalize;
+	font-family: Verdana, Geneva, sans-serif;
+}
+#signUp fieldset form ul li label {
+	text-transform: capitalize;
+	margin: auto;
+}
+#signUp fieldset form ul li input {
+	width: 200px;
+	height: 15px;
+}
+#signUp fieldset form ul li #gender {
+
+
+}
+#signUp fieldset form ul li #msex {
+	margin-right: -71px;
+	margin-top: 4px;
+	margin-bottom: -18px;
+	margin-left: -80px;
+}
+#signUp fieldset form ul li #fsex {
+	margin-right: -87px;
+	margin-top: 4px;
+	margin-bottom: -18px;
+	margin-left: -65px;
+}
+#signUp fieldset form ul li #sub {
+	height: 25px;
+	width: 100px;
+	margin-left: 100px;
+}
+#regss {
+	height: 700px;
+	width: 1330px;
+	margin-right: auto;
+	margin-left: auto;
+	background-image:url(../image/42d70a790a633dcac9d88422ac18698a.jpg)
+}
+#regss header {
+	height: 130px;
+	width: 1330px;
+
+}
+#regss footer {
+	height: 30px;
+	width: 1330px;
+	float: left;
+	background-color: #CCCCCC;
+	padding-top: 10px;
+	text-align: center;
+	margin-top: 60px;
+}
+#regss footer nav a {
+	text-decoration: none;
+	text-transform: uppercase;
+	color: #FFFFFF;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+}

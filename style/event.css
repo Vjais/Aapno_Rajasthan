@@ -1,0 +1,301 @@
+@charset "utf-8";
+/* CSS Document */
+
+#container {
+	height: 730px;
+	width: 1330px;
+	margin-right: auto;
+	margin-left: auto;
+	background-image: url(../image/Graphics-Design-Wallpaper-HD.jpg);
+}
+header {
+	height: 130px;
+	width: 1330px;
+	background-color: #CCC;
+	background-image:url(../image/Graphics-Design-Wallpaper-HD.jpg);
+}
+
+#sss {
+	margin-top: 4px;
+	margin-left: 4px;
+}
+
+#main {
+	height: 50px;
+	width: 1330px;
+}
+#contact_ab  {
+	height: 750px;
+	width: 1000px;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+#main ul {
+	background-color:#F99;
+	margin: auto;
+}
+li a:hover {
+	background-color: #F99;
+	color: #300;
+}
+
+ul li {
+	display: inline-block;
+	text-decoration: none;
+	padding-bottom: 10px;
+	margin-right: -100px;
+	padding-top: 10px;
+	margin-left: 131px;
+}
+li a {
+	color: #FFF;
+	text-transform: uppercase;
+	font-size: 12px;
+	font-weight: bold;
+	text-decoration: none;
+}
+#eventbox {
+	height: 557px;
+	width: 1000px;
+	margin-right: auto;
+	margin-left: auto;
+	margin-top: -15px;
+	background-image:url(../image/camels__thar_desert__india.jpg);
+	margin-top:auto;
+}
+#ehead {
+	height: 55px;
+	width: 1000px;
+	background-image:;
+}
+#etext {
+	height: 50px;
+	width: 1000px;
+	text-transform: uppercase;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 20px;
+	font-weight: bold;
+	padding-top: 13px;
+	margin-left: 5px;
+}
+#emenu {
+	height: 500px;
+	width: 1000px;
+	background-image: url(../images/skulls.png);
+}
+#emenu #catered {
+	height: 205px;
+	width: 304px;
+	background-color: #FCF;
+	float: left;
+	margin-left: 5px;
+	box-shadow: 4px 4px 7px;
+}
+#catered #cart {
+	margin-top: 3px;
+	margin-left: 3px;
+}
+#emenu #cartlink {
+	height: 18px;
+	width: 210px;
+	float: left;
+	margin-top: 10px;
+	text-transform: uppercase;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	margin-left: 46px;
+	text-align: center;
+	border-top-width: thin;
+	border-bottom-width: thin;
+	border-top-style: solid;
+	border-bottom-style: solid;
+	border-top-color: #300;
+	border-bottom-color: #300;
+}
+
+#emenu #meeting {
+	height: 205px;
+	width: 304px;
+	background-color: #FCF;
+	float: left;
+	margin-left: 39px;
+	box-shadow: 4px 4px 7px;
+}
+#meeting #meet {
+	margin-top: 3px;
+	margin-left: 3px;
+}
+
+#emenu #mitinglink {
+	height: 18px;
+	width: 210px;
+	float: left;
+	margin-top: 10px;
+	font-size: 12px;
+	text-transform: uppercase;
+	font-family: Arial, Helvetica, sans-serif;
+	border-top-width: thin;
+	border-bottom-width: thin;
+	border-top-style: solid;
+	border-bottom-style: solid;
+	border-top-color: #300;
+	border-bottom-color: #300;
+	text-align: center;
+	margin-left: 138px;
+}
+
+#emenu #outdoor {
+	height: 205px;
+	width: 304px;
+	background-color: #FCF;
+	float: left;
+	margin-left: 39px;
+	box-shadow: 4px 4px 7px;
+}
+#emenu #doorlink {
+	height: 18px;
+	width: 210px;
+	float: left;
+	text-transform: uppercase;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	margin-top: 10px;
+	border-top-width: thin;
+	border-bottom-width: thin;
+	border-top-style: solid;
+	border-bottom-style: solid;
+	border-top-color: #300;
+	border-bottom-color: #300;
+	margin-left: 136px;
+	text-align: center;
+}
+
+#outdoor #out {
+	margin-top: 3px;
+	margin-left: 3px;
+}
+#emenu #special {
+	background-color: #FCF;
+	height: 205px;
+	width: 304px;
+	float: left;
+	margin-top: 20px;
+	margin-left: 5px;
+	box-shadow: 4px 4px 7px;
+}
+#special #spcl {
+	margin-top: 3px;
+	margin-left: 3px;
+}
+#emenu #spllink {
+	float: left;
+	height: 18px;
+	width: 210px;
+	margin-top: 10px;
+	text-transform: uppercase;
+	font-size: 12px;
+	border-top-width: thin;
+	border-bottom-width: thin;
+	border-top-style: solid;
+	border-bottom-style: solid;
+	border-top-color: #300;
+	border-bottom-color: #300;
+	text-align: center;
+	margin-left: 46px;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+#emenu #summer {
+	background-color: #FCF;
+	float: left;
+	height: 205px;
+	width: 304px;
+	margin-top: 20px;
+	margin-left: 39px;
+	box-shadow: 4px 4px 7px;
+}
+#summer a #sumr {
+	margin-top: 3px;
+	margin-left: 3px;
+}
+#emenu #sumrlink {
+	float: left;
+	height: 18px;
+	width: 210px;
+	margin-top: 10px;
+	margin-left: 138px;
+	font-size: 12px;
+	text-transform: uppercase;
+	border-top-width: thin;
+	border-bottom-width: thin;
+	border-top-style: solid;
+	border-bottom-style: solid;
+	border-top-color: #300;
+	border-bottom-color: #300;
+	text-align: center;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+#emenu #birthday {
+	float: left;
+	height: 205px;
+	width: 304px;
+	margin-top: 20px;
+	margin-left: 39px;
+	background-color: #FCF;
+	box-shadow: 4px 4px 7px;
+}
+#birthday #brtdy {
+	margin-top: 3px;
+	margin-left: 3px;
+}
+#emenu #birthlink {
+	float: left;
+	height: 18px;
+	width: 210px;
+	margin-top: 10px;
+	font-size: 12px;
+	text-transform: uppercase;
+	font-family: Arial, Helvetica, sans-serif;
+	text-align: center;
+	border-top-width: thin;
+	border-bottom-width: thin;
+	border-top-style: solid;
+	border-bottom-style: solid;
+	border-top-color: #000;
+	border-bottom-color: #000;
+	margin-left: 138px;
+}
+
+#container footer {
+	background-color: #BBB;
+	height: 20px;
+	width: 1330px;
+	margin-top: -2px;
+}
+footer nav {
+	text-align: center;
+	text-transform: uppercase;
+	font-size: 10px;
+	font-family: Arial, Helvetica, sans-serif;
+	color: #EEE;
+	padding-top: 3px;
+}
+#container footer nav a{
+	text-decoration: none;
+	color: #FFFBF0;
+}
+
+#cartlink a, #birthlink a, #sumrlink a, #spllink a, #mitinglink a, #doorlink a {
+	text-decoration: none;
+	color: #300;
+}
+#birthday:hover {
+	background-color: #F00;
+}
+
+#cartlink a:hover,  #mitinglink a:hover, #doorlink a:hover, #spllink a:hover, #sumrlink a:hover, #birthlink a:hover
+{
+	color: #F0F;
+}

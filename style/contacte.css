@@ -1,0 +1,360 @@
+@charset "utf-8";
+
+/* CSS Document */
+
+
+#contact_event {
+	height: 735px;
+	width: 1330px;
+	margin-right: auto;
+	margin-left: auto;
+	background-image: url(../images/Background3.png);
+}
+#session {
+	height: 35px;
+	width: 1000px;
+	background-repeat: no-repeat;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+
+
+#contact_aa {
+	height: 1280px;
+	width: 1330px;
+	margin-right: auto;
+	margin-left: auto;
+	background-image: url(../images/Background3.png);
+}
+#session p {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	text-transform: uppercase;
+	margin-top: 10px;
+	padding-left: 5px;
+	color: #0000FF;
+	font-weight: bold;
+}
+#session p a:hover {
+	background-color: #0033FF;
+	color: #F00;
+	border-radius: 15px;
+
+
+}
+
+#session a  {
+	text-decoration: none;
+	color: #FF7575;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	text-transform: uppercase;
+	float: right;
+	margin-top: 0px;
+	margin-right: 9px;
+	background-color: #0CF;
+	width: 100px;
+	height: 24px;
+	text-align: center;
+	padding-top: 6px;
+	border-radius: 15px;
+}
+#session p a:active {
+	background-color: #06C;
+	color: #E31136;
+	border-radius: 15px;
+}
+
+
+
+
+#contact_ab  {
+	height: 1070px;
+	width: 1000px;
+	margin-right: auto;
+	margin-left: auto;
+	background-image: url(../images/skulls.png);
+}
+#contact_event #main #session p a img {
+}
+
+#main_cont {
+	height: 540px;
+	width: 1000px;
+	margin-right: auto;
+	margin-left: auto;
+	margin-top: -15px;
+	background-image: url(../images/skulls.png);
+}
+#head {
+	height: 55px;
+	width: 1000px;
+}
+#head #hd_cont {
+	height: 35px;
+	width: 1000px;
+}
+#abc {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 20px;
+	text-transform: uppercase;
+	font-weight: bold;
+	padding-top: 5px;
+	padding-left: 5px;
+}
+#cba  {
+	height: 20px;
+	width: 1000px;
+	padding-left: 5px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+}
+#textbox {
+	height: 450px;
+	width: 1000px;
+}
+#textbox #black {
+	height: 60px;
+	width: 1000px;
+}
+#textbox #maincc {
+	width: 670px;
+	margin-right: auto;
+	margin-left: auto;
+	height: 380px;
+}
+#maincc #submit {
+	height: 29px;
+	width: 120px;
+	float: left;
+	margin-left: 5px;
+	padding-top: 10px;
+}
+#submit #submi {
+	width: 100px;
+	height: 30px;
+}
+
+
+#phones {
+	height: 35px;
+	width: 310px;
+	margin-left: 5px;
+	float: left;
+	padding-top: 5px;
+}
+#phones #edit-submitted-phone {
+	height: 23px;
+	width: 302px;
+}
+
+
+
+#textbox #name {
+	height: 35px;
+	width: 310px;
+	margin-left: 5px;
+	padding-top: 5px;
+	float: left;
+}
+#name #edit-submitted-name {
+	height: 23px;
+	width: 302px;
+}
+#textbox #department {
+	height: 35px;
+	width: 310px;
+	padding-top: 5px;
+	float: left;
+	margin-left: 30px;
+}
+#department #edit-submitted-department {
+	height: 23px;
+	width: 302px;
+}
+#emails {
+	height: 35px;
+	width: 310px;
+	float: left;
+	padding-top: 5px;
+	margin-left: 30px;
+}
+#emails #edit-submitted-email {
+	height: 23px;
+	width: 302px;
+}
+#event_type {
+	height: 35px;
+	width: 310px;
+	float: left;
+	margin-left: 5px;
+	padding-top: 5px;
+}
+#event_type #edit-submitted-event-type {
+	width: 306px;
+	height: 28px;
+	text-transform: none;
+	font-size: 11px;
+	font-weight: bold;
+	font-family: Arial, Helvetica, sans-serif;
+}
+#number_of_attendees {
+	height: 35px;
+	width: 310px;
+	float: left;
+	margin-left: 30px;
+	padding-top: 5px;
+}
+#number_of_attendees #edit-submitted-number-of-attendees {
+	height: 27px;
+	width: 306px;
+	font-size: 11px;
+	font-weight: bold;
+	text-transform: none;
+	font-family: Arial, Helvetica, sans-serif;
+}
+#event_date {
+	height: 35px;
+	width: 310px;
+	padding-top: 5px;
+	float: left;
+	margin-left: 5px;
+}
+#event_date #edit-submitted-event-date {
+	height: 23px;
+	width: 302px;
+}
+#desired_venue {
+	height: 35px;
+	width: 310px;
+	margin-left: 30px;
+	padding-top: 5px;
+	float: left;
+}
+#cost {
+	height: 35px;
+	width: 310px;
+	margin-left: 5px;
+	padding-top: 5px;
+	float: left;
+}
+#cost #price {
+	height: 23px;
+	width: 302px;
+}
+#status {
+	height: 35px;
+	width: 310px;
+	margin-left: 30px;
+	padding-top: 5px;
+	float: left;
+}
+#status #edit_status {
+	height: 23px;
+	width: 302px;
+}
+
+
+
+
+#desired_venue #edit-submitted-desired-venue {
+	width: 306px;
+	height: 27px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-weight: bold;
+	text-transform: none;
+}
+#text_area {
+	width: 650px;
+	height: 140px;
+	float: left;
+	margin-left: 5px;
+	padding-top: 10px;
+}
+#text_area #edit-submitted-describe-your-event {
+	width: 640px;
+	height: 130px;
+}
+.form-textarea {
+	text-transform: none;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-weight: bold;
+}
+.form {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	text-transform: none;
+	font-weight: bold;
+}
+
+.twothirds {
+
+width: 1000px;
+padding: 0 0 0 0px;
+}
+.twothirds  h1{
+	font-family: Tahoma, Arial, Verdana;
+	font-size: 24px;
+	font-weight: lighter;
+	color: #efb112;
+	margin-top: 0;
+	padding: 5px 0;
+	border-bottom-width: thin;
+	border-bottom-style: solid;
+	border-bottom-color: #CCC;
+}
+.twothirds p {
+font-family: Tahoma, Arial, Verdana;
+font-size: 14px;
+color: #838383;
+line-height: 1.4em;
+display: block;
+-webkit-margin-before: 1em;
+-webkit-margin-after: 1em;
+-webkit-margin-start: 0px;
+-webkit-margin-end: 0px;
+}
+
+.phone {
+	background-image: url(../images/phone.png);
+	background-repeat: no-repeat;
+	background-position: 0 3px;
+	padding-left: 20px;
+}
+
+p span {
+font-weight: bold;
+color: #F90;
+}
+.fax {
+	background-image: url(../images/fax.png);
+	background-repeat: no-repeat;
+	background-position: 0 3px;
+	padding-left: 24px;
+}
+
+.mobile {
+background-image: url(../images/mobile.png);
+background-repeat: no-repeat;
+background-position: 0 2px;
+padding-left: 24px;
+}
+
+.mail {
+background-image: url(../images/mail.png);
+background-repeat: no-repeat;
+background-position: 0 2px;
+padding-left: 24px;
+}
+
+.container_ab {
+	margin: 5px 0 26px 0;
+	clear: both;
+	background-image: url(../images/container_bg_top.jpg);
+	background-repeat: repeat-x;
+	background-position: top;
+}

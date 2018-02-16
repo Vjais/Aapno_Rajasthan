@@ -1,0 +1,50 @@
+@charset "utf-8";
+/* CSS Document */
+
+#about_con {
+	height: 630px;
+	width: 1330px;
+	background-image:url(../image/Graphics-Design-Wallpaper-HD.jpg);
+	margin-right: auto;
+	margin-left: auto;
+}
+#about_about {
+	height: 430px;
+	width: 1000px;
+	margin-right: auto;
+	margin-left: auto;
+}
+#about_ab {
+	height: 55px;
+	width: 1000px;
+	float: left;
+}
+#about_ab h2 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 20px;
+	text-transform: uppercase;
+	padding-left: 5px;
+}
+#about_ac {
+	height: 30px;
+	width: 730px;
+	float: left;
+}
+#about_ac p {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	padding-left: 5px;
+	margin-top: 6px;
+}
+#about_ad {
+	height: 150px;
+	width: 1000px;
+	float: left;
+}
+#about_ad p {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	padding-left: 5px;
+	text-align: justify;
+	padding-top: 15px;
+}

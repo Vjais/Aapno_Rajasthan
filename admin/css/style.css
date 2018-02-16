@@ -1,0 +1,146 @@
+.FAAdLink, .FAAdLink:focus, .FAAdLink:link, .FAAdLink:visited, .FAAdLink:active, .FAAdLink:hover {
+	background-color: transparent !important;
+	border-bottom-color: #1c7dff !important;
+	border-bottom-style: solid !important;
+	border-bottom-width: 1px !important;
+	color: #1c7dff !important;
+	font-weight: normal !important;
+	text-decoration: underline !important;
+	padding-bottom: 1px !important;
+	display: inline !important;
+}
+
+.pxInta, .pxInta:focus, .pxInta:link, .pxInta:visited, .pxInta:active, .pxInta:hover {
+    border: 0px !important;
+    background-color: transparent !important;
+    border-bottom-color: #1c7dff !important;
+    border-bottom-style: solid !important;
+    border-bottom-width: 1px !important;
+    color: #1c7dff !important;
+    font-weight: normal !important;
+    text-decoration: underline !important;
+    padding-bottom: 1px !important;
+    display: inline !important;
+}
+
+.FAtxtL, .FAtxtL:focus, .FAtxtL:link, .FAtxtL:visited, .FAtxtL:active, .FAtxtL:hover {
+   border: 0px !important;
+	background-color: transparent !important;
+	border-bottom-color: #1c7dff !important;
+	border-bottom-style: solid !important;
+	border-bottom-width: 1px !important;
+	color: #1c7dff !important;
+	font-weight: normal !important;
+	text-decoration: underline !important;
+	padding-bottom: 1px !important;
+	display: inline !important;
+}
+
+.FAAdLinkBlank, .FAAdLinkBlank:focus, .FAAdLinkBlank:link, .FAAdLinkBlank:visited, .FAAdLinkBlank:active, .FAAdLinkBlank:hover {
+	background-color: transparent !important;
+	border-bottom-color: #FFFFFF !important;
+	border-bottom-style: solid !important;
+	border-bottom-width: 1px !important;
+	color: #FFFFFF !important;
+	font-weight: normal !important;
+	text-decoration: underline !important;
+	padding-bottom: 1px !important;
+	display: inline !important;
+}
+
+.FAAdLink:hover {
+	border-bottom-width: 3px !important;
+}
+
+.pxInta:hover {
+    border-bottom-width: 3px !important;
+}
+
+.FAtxtL:hover {
+	border-bottom-width: 3px !important;
+}
+
+.pxCage {
+    left:0;
+    top:0px;
+    display:block;
+    z-index: 99999995 !important;
+    visibility: hidden;
+    position: absolute;
+    filter: progid:DXImageTransform.Microsoft.Alpha(style=0,opacity=0);
+}
+
+.FAFrame {
+   left:0;
+   top:0px;
+   display:block;
+   z-index: 99999995 !important;
+   visibility: hidden;
+   position: absolute;
+   filter: progid:DXImageTransform.Microsoft.Alpha(style=0,opacity=0);
+}
+
+.FAFrameThird {
+   left:0px;
+   top:0px;
+   display:block;
+   z-index: 99999997 !important;
+   visibility: hidden;
+   position: absolute;
+   margin: 0px !important;
+   padding: 0px !important;
+}
+
+.pxLeadPh {
+    position: absolute;
+    border: 0px !important;
+    z-index: 2147483647 !important;
+    visibility: visible !important;
+}
+
+.FAAdDiv {
+   position: absolute;
+   border: 0px !important;
+   z-index: 2147483647 !important;
+   visibility: visible !important;
+}
+
+.FABrandingBar {
+   bottom:0px !important;
+   left: 0px;
+   z-index: 2147483646 !important;
+   visibility: visible !important;
+   height: 21px !important;
+   width: 194px !important;
+}
+
+#getAdsDiv, #FACacheDiv, #utilDiv, #fetchLeadsPh {
+   width: 1px !important;
+   height: 1px !important;
+   position: fixed !important;
+   top: 1px !important;
+   left: 1px !important;
+   display: block !important;
+}
+
+#faUnit1 {
+   outline: none !important;
+}
+
+.pxBClosure {
+    right: -5000px;
+    bottom: 0px;
+    position: fixed !important;
+    z-index: 2147483647 !important;
+    text-align: left !important;
+    line-height: 100% !important;
+}
+
+.FABannerWrapper {
+   right: -5000px;
+   bottom: 0px;
+   position: fixed !important;
+   z-index: 2147483647 !important;
+   text-align: left !important;
+   line-height: 100% !important;
+}

@@ -1,0 +1,113 @@
+@charset "utf-8";
+/* CSS Document */
+
+#myevent {
+	height: 960px;
+	width: 1330px;
+	margin-right: auto;
+	margin-left: auto;
+	background-image: url(../images/Background3.png);
+}
+#myevent_aa {
+	height: 750px;
+	width: 1000px;
+	margin-right: auto;
+	margin-left: auto;
+	background-image: url(../images/skulls.png);
+}
+#myevent_ab {
+	height: 55px;
+	width: 1000px;
+	float: left;
+}
+#evenleft {
+	float: left;
+	height: 55px;
+	width: 500px;
+}
+#eventright {
+	float: left;
+	height: 55px;
+	width: 499px;
+}
+#eventright p {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	text-transform: uppercase;
+	font-weight: bold;
+}
+#eventright a  {
+	height: 24px;
+	width: 80px;
+	color: #FF0000;
+	text-decoration: none;
+	background-color: #0099FF;
+	float: right;
+	margin-right: 20px;
+	padding-top: 8px;
+	padding-left: 20px;
+	border-radius: 15px;
+}
+
+#eventright a:active {
+	background-color: #06C;
+	color: #0033FF;
+	border-radius: 15px;
+}
+
+#eventright a:hover {
+	background-color: #0033FF;
+	color: #F00;
+	border-radius: 15px;
+
+
+}
+
+
+#evenleft h3 {
+	text-transform: uppercase;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 20px;
+	padding-left: 5px;
+	font-weight: bold;
+}
+
+
+
+#myevent_ac table {
+	width: 900px;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+
+#myevent_ac {
+	height: 650px;
+	width: 1000px;
+	float: left;
+}
+#myevent #myevent_aa #myevent_ac #sssss {
+	width: 1000px;
+	height: 20px;
+}
+
+
+table {
+  font-family: Verdana, cursive;  
+}
+#myevent_ac table caption {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 18px;
+	font-weight: bold;
+}
+
+
+thead {
+  background: #6C496F; /*#da251d*/
+  color: white;
+}
+#myevent_ab h3 p {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	color: #0099FF;
+}
